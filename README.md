@@ -4,6 +4,16 @@
 
 ![captura ed la pagina de registro](banner.png)
 
+---
+
+## Probá la app terminada (solo para android)
+
+[LINK DE DESCARGA APK](https://github.com/kpitan022/Challenge-RickAndMortyApp/raw/master/instalable/rickAndMorty.apk)
+
+[![Descargar apk](unnamed.png)](https://github.com/kpitan022/Challenge-RickAndMortyApp/raw/master/instalable/rickAndMorty.apk)
+
+---
+
 ## Challenge Desarrollo Mobile (Start Coding)
 
 ---
